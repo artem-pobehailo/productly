@@ -222,3 +222,82 @@ padding-bottom: 13px;
 .designBtn{
     margin: 0 auto;
 }
+.professionalsContainer{
+    display: flex;
+     padding-top: 120px;
+    padding-bottom: 100px;
+      padding-right: 145px;
+   padding-left: 145px;
+   gap: 104px;
+}
+.professionalsText{
+    font-family: "Poppins", sans-serif;
+font-weight: 500;
+font-size: 16px;
+color: #544837;
+padding-bottom: 3px;
+}
+.professionalsTitle{
+    font-family: "Poppins", sans-serif;
+font-weight: 700;
+font-size: 36px;
+color: #2f281e;
+padding-bottom: 22px;
+}
+.professionalsSubtext{
+    font-family: "Poppins", sans-serif;
+font-weight: 500;
+font-size: 16px;
+
+
+line-height: 1.625;
+color: #544837;
+max-width: 486px;
+
+}
+.professionalsItem{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+padding-top: 30px;
+}
+
+.professionalsSubtitel{
+    font-family: "Poppins", sans-serif;
+font-weight: 700;
+font-size: 16px;
+
+ 
+line-height: 1.625;
+color: #2f281e;
+padding-bottom: 12px;
+}
+.managers{
+    flex-direction: row-reverse;
+}
+.managersList{
+    display: flex;
+    gap: 30px;
+}
+.managersListIcon{
+    display: flex;
+border: 2.92px solid #fff;
+border-radius: 14px;
+width: 35px;
+height: 35px;
+justify-content: center;
+align-items: center;
+fill: #fff;
+
+background: #f90;
+}
+.subtext{
+    max-width: 385px;
+    font-family: "Poppins", sans-serif;
+font-weight: 500;
+font-size: 16px;
+
+/* line-height: 26px; */ 
+line-height: 1.625;
+color: #544837;
+}
